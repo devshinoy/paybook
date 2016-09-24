@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "252854096778",
+    "firebase_url": "https://paybook-6b668.firebaseio.com",
+    "project_id": "paybook-6b668",
+    "storage_bucket": "paybook-6b668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252854096778:android:bd21e6333a3aa947",
+        "android_client_info": {
+          "package_name": "xyz.iamvivek.paybook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252854096778-oui4pgg8f21bh6vq3fsvpfnnh1j6rqkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLSTAURwsVpH8NUY9oCkh4jO3qjcx8agw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
